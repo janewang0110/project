@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>login form</title>
+    </head>
+    <body>
+        <form method="post" action="Validate">
+        	User Name:<input type="text" name="user" /><br/>
+        	Password:<input type="text" name="pass" /><br/>
+        <input type="submit" value="Validate" />
+        </form>
+        <form method="post" action="Register">
+        	<input type="submit" value="Register" />
+       	</form>
+    </body>
+</html>

@@ -1,0 +1,5 @@
+package com.janew.login.dao;
+
+public class LoginRegister {
+
+}
